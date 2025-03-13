@@ -10,11 +10,12 @@ public:
                 cnt0++;
             }
             if( cnt0 > k ){
-                while( nums[start] != 0){
+                while( cnt0 > k ){
+                    if( nums[start] == 0 ){
+                        cnt0--;
+                    }
                     start++;
                 }
-                cnt0--;
-                start++;
             }
             else{
                 maxi = max( maxi , end - start + 1);
