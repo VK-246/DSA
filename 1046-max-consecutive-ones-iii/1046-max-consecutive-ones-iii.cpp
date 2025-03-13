@@ -26,6 +26,7 @@ public:
 
 
         // OPtimized 2
+        // uses the idea that max will never be greater until zero is not trimmed, so no need to move for start using a loop , move with end itself.
         while( end < n){
             if( nums[end] == 0){
                 cnt0++;
