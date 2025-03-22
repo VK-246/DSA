@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/VK-246/DSA/tree/master/0076-minimum-window-substring) |
 | [0940-fruit-into-baskets](https://github.com/VK-246/DSA/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/VK-246/DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -22,5 +23,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/VK-246/DSA/tree/master/0076-minimum-window-substring) |
 | [0940-fruit-into-baskets](https://github.com/VK-246/DSA/tree/master/0940-fruit-into-baskets) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/VK-246/DSA/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
